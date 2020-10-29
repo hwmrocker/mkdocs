@@ -21,8 +21,10 @@ The current and past members of the MkDocs team.
 * [@d0ugal](https://github.com/d0ugal/)
 * [@waylan](https://github.com/waylan/)
 
-## Unreleased
+## Version 1.1.3 (Under development)
 
+* Bugfix: Properly process navigation child items in `_get_by_type` when
+  filtering for sections (#2203).
 * Add support for `mkdocs.yaml` as a second default config file.
 
 ## Version 1.1.2 (2020-05-14)
