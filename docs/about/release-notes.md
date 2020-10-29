@@ -21,6 +21,10 @@ The current and past members of the MkDocs team.
 * [@d0ugal](https://github.com/d0ugal/)
 * [@waylan](https://github.com/waylan/)
 
+## Unreleased
+
+* Add support for `mkdocs.yaml` as a second default config file.
+
 ## Version 1.1.2 (2020-05-14)
 
 * Bugfix: Normalize IP addresses and change unsupported address error to a
